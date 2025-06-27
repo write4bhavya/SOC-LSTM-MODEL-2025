@@ -21,9 +21,7 @@ Welcome to our Summer of Code project! Our goal is to build an **LSTM-based mode
   - `Matplotlib` & `Seaborn` – for data visualization
   - `Scikit-learn` – for machine learning tools
 - Completed assignments involving:
-  - Data loading, cleaning, and transformation
-  - Exploratory data analysis (EDA)
-  - Plotting line graphs, bar charts, histograms, etc.
+  - Everything learnt from week 1 and week 2.
 
 ---
 
@@ -46,17 +44,9 @@ Welcome to our Summer of Code project! Our goal is to build an **LSTM-based mode
   - Concept explanation
   - Regularization techniques (L2, train-test split, cross-validation)
 
-#### Unsupervised Learning *(Optional)*
+#### Unsupervised Learning 
 - K-Means Clustering
 - K-Nearest Neighbours (KNN)
-
----
-
-### Week 4: Technical Analysis & Financial Data
-
-#### 📊 Technical Analysis
-- Concepts from provided PDF and video material:
-  - Trends, indicators, support & resistance, moving averages
 
 #### 💻 Financial Data with `yfinance`
 - What is the `yfinance` API
@@ -65,7 +55,6 @@ Welcome to our Summer of Code project! Our goal is to build an **LSTM-based mode
   - Download stock data using Python
   - Prepare it for modeling
 
----
 
 ## 🔧 Tools & Technologies
 - Python 3.x
